@@ -3,7 +3,7 @@ import { useDispatch } from "react-redux";
 import {setUserId} from "../redux/result_reducer"
 
 import { Link } from "react-router-dom";
-
+//Hi appleeeee
 import '../styles/Main.css'
 
 export default function Main(){
