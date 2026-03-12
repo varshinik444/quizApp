@@ -4,7 +4,7 @@ import { moveNextAction, movePrevAction } from "../redux/question_reducer"; // â
 import { PushAnswer } from '../hooks/setResult';
 import { Navigate } from "react-router-dom";
 import Questions from "./Questions";
-
+//QuizApp
 export default function Quiz() {
   const [check, setChecked] = useState(undefined);
   const dispatch = useDispatch();
